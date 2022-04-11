@@ -13,6 +13,7 @@
 
   ## Installation
   --Necessary installs for application:
+  - Node.js
   - inquirer
 
   ## Usage
